@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[The Lobsda Blog]]></title>
+  <link href="http://blog.lobsda.com/atom.xml" rel="self"/>
+  <link href="http://blog.lobsda.com/"/>
+  <updated>2015-05-10T20:49:15+02:00</updated>
+  <id>http://blog.lobsda.com/</id>
+  <author>
+    <name><![CDATA[Team Lobsda]]></name>
+    <email><![CDATA[info@lobsda.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[STM32L0 Data Logger - Part1]]></title>
+    <link href="http://blog.lobsda.com/blog/2015/04/16/stm32l0-sensor-logger-part1/"/>
+    <updated>2015-04-16T21:42:43+02:00</updated>
+    <id>http://blog.lobsda.com/blog/2015/04/16/stm32l0-sensor-logger-part1</id>
+    <content type="html"><![CDATA[<p>Here I describe the necessary steps to connect a STM32L0 Nucleo board with the Adafruit SD card shield and use this combination for logging arbitrary data on a SD card.</p>
+]]></content>
+  </entry>
+  
+</feed>
