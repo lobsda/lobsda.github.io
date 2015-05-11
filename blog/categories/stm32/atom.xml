@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Stm32 | The Lobsda Blog]]></title>
   <link href="http://blog.lobsda.com/blog/categories/stm32/atom.xml" rel="self"/>
   <link href="http://blog.lobsda.com/"/>
-  <updated>2015-05-10T21:03:22+02:00</updated>
+  <updated>2015-05-11T21:17:47+02:00</updated>
   <id>http://blog.lobsda.com/</id>
   <author>
     <name><![CDATA[Team Lobsda]]></name>
@@ -18,7 +18,7 @@
     <link href="http://blog.lobsda.com/blog/2015/04/16/stm32l0-sensor-logger-part1/"/>
     <updated>2015-04-16T21:42:43+02:00</updated>
     <id>http://blog.lobsda.com/blog/2015/04/16/stm32l0-sensor-logger-part1</id>
-    <content type="html"><![CDATA[<p>Here I describe the necessary steps to connect a STM32L0 Nucleo board with the Adafruit SD card shield and use this combination for logging arbitrary data on a SD card.</p>
+    <content type="html"><![CDATA[<p>Here I describe the necessary steps to connect a STM32L0 Nucleo board with the Adafruit SD card shield and use this combination for logging arbitrary data on a (Micro-) SD card.</p>
 ]]></content>
   </entry>
   
